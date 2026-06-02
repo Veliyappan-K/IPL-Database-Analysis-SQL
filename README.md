@@ -1,10 +1,29 @@
-IPL Database Analysis using SQL
+# IPL Database Analysis using SQL
 
-Features:
-Highest Run Scorer
-Team Wise Wins
-Top 5 Run Scorers
-Strike Rate Analysis
+## Project Overview
+This project analyzes IPL cricket data using SQL.
 
-Tools
-MySQL
+## Database Tables
+- Teams
+- Players
+- Matches
+- Scores
+
+## Features:
+- Team Wise Total Runs
+- Top 5 Run Scorers
+- Most Sixes Hit Player
+- Most Fours Hit Player
+- Average Runs Per Player
+- Match Wise Highest Score
+
+## Tools Used
+- MySQL
+
+## SQL Concepts Used
+- JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Foreign Keys
+- F
