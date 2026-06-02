@@ -26,4 +26,3 @@ This project analyzes IPL cricket data using SQL.
 - ORDER BY
 - Aggregate Functions
 - Foreign Keys
-- F
